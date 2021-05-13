@@ -5,7 +5,7 @@
       "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content"
     }
   ],
-  "id": "https://raw.githubusercontent.com/bovasso/dcsfcc/master/content-types/sfcc/sfcc-folder-slot.json",
+  "id": "https://raw.githubusercontent.com/bovasso/dcsfcc/master/content-types/sfcc-folder-slot.json",
   "title": "SFCC Folder Slot",
   "description": "SFCC Folder Slot",
   "type": "object",
